@@ -1,0 +1,11 @@
+env_variables.yaml
+# Ignore .env file
+.env
+
+# Ignore app.yaml file
+app.yaml
+
+# Ignore service account key JSON file
+*.json
+
+.DS_Store
